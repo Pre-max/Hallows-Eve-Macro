@@ -22,9 +22,6 @@ If Windows or your antivirus warns about the file
 - The macro never connects to the internet and never collects data. It only looks at your screen
   and presses keys / clicks the mouse. Only run a copy you got from someone you trust.
 
-Fair play
-- Automation can be against Roblox's Terms of Use or a game's own rules, and nobody can promise this
-  tool is allowed or that it will never lead to a warning or ban. Use it at your own risk.
 
 Problems?
 - Use the Test buttons to see what the macro sees (Test OCR, Test Fish, Test UI, Test Slots, Test Store).
